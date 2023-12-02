@@ -1,6 +1,7 @@
 # MeteoStationApp v2.0
 
-![Static Badge](https://img.shields.io/badge/dotnet_Framework-%204.7.2-blue) ![Static Badge](https://img.shields.io/badge/platform-Windows-green) <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained" height="20px"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="28px"><img src="https://img.shields.io/badge/.NET Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="28px"><img src="https://img.shields.io/badge/winforms-8c0a90?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="28px"><img src="https://img.shields.io/badge/SQLite-05a5f5?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="28px">
+![Static Badge](https://img.shields.io/badge/dotnet_Framework-%204.7.2-blue) ![Static Badge](https://img.shields.io/badge/platform-Windows-green) <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained" height="20px">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="28px"><img src="https://img.shields.io/badge/.NET Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="28px"><img src="https://img.shields.io/badge/winforms-8c0a90?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="28px"><img src="https://img.shields.io/badge/SQLite-05a5f5?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" height="28px">
 
 ## Start here
 
