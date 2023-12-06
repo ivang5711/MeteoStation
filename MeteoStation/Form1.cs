@@ -492,5 +492,10 @@ namespace MeteoApp
 
         }
         #endregion
+
+        private void radioButton11_CheckedChanged(object sender, EventArgs e)
+        {
+            ts1 = new TimeSpan(720, 0, 0);
+        }
     }
 }
